@@ -1,0 +1,9 @@
+Jabes;18
+Ana;20
+Marcos;22
+Jaime;35
+Lara;15
+Bruno;29
+Maria;19
+Julia;25
+José;50
